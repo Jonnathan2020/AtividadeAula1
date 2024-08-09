@@ -1,0 +1,7 @@
+Entregar 4 prints no anexo desta atividade. código de cada método e a execução de cada método
+
+Criar um método chamado DetalharData que apresente a mensagem para o usuário digitar uma data e armazene em uma variável compativel. Você deverá usa uma formatação para imprimir na tela qual o dia da Semana(nome) e qual o nome do mês por extenso. Comparar o dia da semana da data, se ela for um domingo, imprimir na tela a hora atual com os minutos (EX: 14:35)
+
+Criar um método chamado CalcularDescontoINSS que apresente a mensagem que solicite para o usuário digitar o valor do salárioe armazene em uma variável compátivel. Você deverá observar a tabela em anexo e apresentar ao usuário o valor de INSS que ele terá que pagar e qual o valor do salário descontado o INSS. Você pode declarar a quantidade de variáveis que quiser para fazer os cálculos.
+
+
